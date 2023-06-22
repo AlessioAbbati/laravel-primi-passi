@@ -4,6 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>primi passi laravel</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        header {
+            height: 4rem;
+            background-color: blue;
+        }
+        ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            padding-inline: 1rem;
+        }
+    </style>
 </head>
 <body>
     <header>
